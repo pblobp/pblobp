@@ -6,8 +6,7 @@
 **What I do**
 - Head of Engineering at TeachMe.To, still hands-on: Node.js/Prisma/PostgreSQL API, Next.js web,
   React Native (Expo) apps, React dashboards, Playwright e2e. Mostly private repos — the contribution graph shows the volume.
-- Design and ship AI agents (Mastra.ai, LangChain/LangGraph), MCP servers,
-  and skills and plugins for coding agents (Claude Code, Codex, Devin).
+- Design and ship AI agents to production.
 
 **Some OSS contributions**
 - [CompozyOS](https://github.com/compozy/compozy) — an operating system for AI agents (Go, MIT, 2.8k+ stars).
@@ -20,6 +19,6 @@
 
 **Now**
 - Publishing generic versions of the Claude Code skills I use at work.
-- Exploring Compozy workflows for multi-agent teams.
+- Exploring software factories and Compozy workflows for multi-agent teams.
 
 📫 [LinkedIn](https://www.linkedin.com/in/pblobp/)
