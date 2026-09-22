@@ -3,7 +3,7 @@
 > Software engineer based in Florianópolis, Brazil, working remotely with TeachMe.To in San Francisco.
 > I turn customer problems into shipped products with AI agents, RAG, and the harness that runs them in production.
 
-** Day-to-day stack**
+**Day-to-day stack**
 - Node.js, Prisma, PostgreSQL, AWS, React, Next.js, React Native (Expo), Go, Python, LangChain/LangGraph and Mastra.ai
 
 **Some OSS contributions**
