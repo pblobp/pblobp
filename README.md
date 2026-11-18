@@ -3,6 +3,7 @@
 Software engineer based in Florianópolis, Brazil, working remotely at TeachMe.To in San Francisco.
 
 **Some OSS contributions**
+- [Orca plugins](https://github.com/pblobp/orca-plugins) — plugins for the Orca agent development environment, starting with [OS Vitals](https://orca.dev/plugins/pblobp/orca-plugins/os-vitals), a system monitor for the sidebar (TypeScript, MIT).
 - [CompozyOS](https://github.com/compozy/compozy) — an operating system for AI agents (Go, MIT, 2.8k+ stars).
 - [PostHog React Native](https://github.com/PostHog/posthog-js/tree/main/packages/react-native) — product analytics SDK for React Native apps.
 - [iDempiere](https://github.com/idempiere/idempiere) — community-powered open-source business suite (ERP/CRM/SCM/POS).
